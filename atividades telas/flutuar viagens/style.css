@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #333;
+  text-align: center;
+}
+
+main {
+  padding: 60px 20px;
+  max-width: 700px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+h1 b {
+  color: purple;
+}
+
+p {
+  margin: 15px 0;
+  line-height: 1.6;
+  color: #555;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+footer a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: purple;
+  font-weight: bold;
+}
+footer a:hover {
+  text-decoration: underline;
+}
